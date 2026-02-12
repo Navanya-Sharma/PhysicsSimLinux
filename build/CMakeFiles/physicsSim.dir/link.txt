@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/physicsSim.dir/main.cpp.o CMakeFiles/physicsSim.dir/Src/foo.cpp.o -o physicsSim  libs/glfw/src/libglfw3.a -lm /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
